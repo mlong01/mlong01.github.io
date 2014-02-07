@@ -2,11 +2,17 @@ body {
 	background-color: black;
 }
 
+img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+
+	width: 500px;
+}
+
 #mainCapsule {
 	background-color: #CBE8F0;
-	margin-left: 40px;
-	margin-right: 40px;
-	margin-top: 0px;
+	margin-top: 10px;
 	margin-bottom: 20px;
 
 	border-style: solid;
@@ -14,13 +20,9 @@ body {
 	border-width: 5px;
 	border-color: gray;
 
-	position: absolute;
-	height: 250px;
-	top: 30%;
-	bottom: 30%;
-	left: 0;
-	right: 0;
-
+	display: block;
+	margin-right: 100px;
+	margin-left: 100px;
 }
 
 
