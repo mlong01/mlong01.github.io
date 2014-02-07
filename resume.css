@@ -29,7 +29,7 @@ h1 {
 	color: #CBE8F0;
 	font-family: times;
 
-	margin-top: 20px;
+	margin-top: 60px;
 	margin-left: 40px;
 	margin-bottom: 20px;
 }
@@ -47,7 +47,7 @@ h2 {
 	margin-left: 40px;
 	margin-right: 40px;
 	margin-top: 0px;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 
 	border-style: solid;
 	border-radius: 10px;
@@ -60,6 +60,7 @@ h2 {
 	color: lightblue;
 
 	margin-left: 30px;
+	margin-top: 20px;
 }
 
 #otherInfo {
