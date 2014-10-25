@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html>
+
+<head>
+	<title>Matt Long</title>
+	<link rel="stylesheet" type="text/css" href="index.css" />
+</head>
+
+<body>
+	<img src="Beauty.jpg" alt="Yours truly" />
+	<div id="mainCapsule">
+		<h1>MATT LONG</h1>
+
+		<div id="subCapsule" onclick="location.href='resume.html';">
+			<h5>
+				<a href="resume.html">Resume</a>
+			</h5>
+		</div>
+		<div id="subCapsule" onclick="location.href='bio.html';">
+			<h5>
+				<a href="bio.html">Biography</a>
+			</h5>
+		</div>
+</body>
+
+
+</html>
